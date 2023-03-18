@@ -1,1 +1,1 @@
-# awesome-dotfiles
+dependencies is alacritty and hack font
